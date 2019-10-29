@@ -1,0 +1,128 @@
+.profilePic{
+   img{
+    width:50%;
+    height: 50%;
+    margin-top: 20%;
+    border: 5px solid #f1f2f3;
+  
+   }
+   .profiletext{
+    font-size: 14px;
+    letter-spacing: 5px;
+    font-weight: 700;
+}
+
+.profile-text-summary{
+    font-size: 12px;
+}
+}
+.singleBorder{
+    border-top: 3px solid #fff;
+}
+.contact-section{
+    margin-bottom: 1rem;
+    .phone-icon{
+        margin: 0;
+        margin-top: 1rem;
+        
+    }
+    .phone-number{
+        margin: 0;
+        letter-spacing: 2px;
+    }
+    
+}
+
+.email-section{
+    margin-bottom: 1rem;
+    .email-icon{
+        margin: 0;
+        margin-top: 1rem;
+    }
+    .email-address{
+        margin: 0;
+        letter-spacing: 2px;
+    }
+}
+.address-section{
+    margin-bottom: 1rem;
+    .home-icon{
+        margin: 0;
+        margin-top: 1rem;
+    }
+    .home-address{
+        margin: 0;
+        letter-spacing: 2px;
+        margin-bottom: 1rem;
+    }
+}
+.SkileRange {
+    margin: 1.45rem;
+}
+
+.raingSlider{
+    margin-bottom: .4rem;
+    .slider{
+        -webkit-appearance: none;
+        width: 100%;
+        height: 3px;
+        border-radius: 2px;
+        outline: none;
+
+    }
+    .slider::-webkit-slider-thumb{
+        -webkit-appearance: none;
+        width:1rem;
+        height:1rem;
+        background-color:#fff ;
+        border: 2px solid rgba(22, 22, 22, 0.815);
+        border-radius: 50%;
+        cursor: pointer;
+        outline: none;
+        box-shadow: 0 0 0 0 rgba(98, 0, 238, .1);
+    }
+    .skillText{
+        margin: 0;
+        padding: 0;
+        font-size: 13px;
+        color: #fff;
+        letter-spacing: 1px;
+        margin-bottom: -10px;
+    }
+}
+
+$Light_gray:#EAEAEA;
+
+// Main Body
+
+.nametitle{
+    width: 100%;
+    height: 9%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: $Light_gray !important;
+    .NameFirstLatter{
+        text-align: right;
+        margin-top: -2rem;
+        h1{
+            font-size: 7rem;
+        }
+   
+    }
+    .NameDetails{
+        border-left: 3px solid #000;
+        padding-top: .5rem;
+        padding-bottom: .5rem;
+        h1{
+            font-size: 28px;
+            letter-spacing: 3px;
+            font-weight: 700;
+        }
+        p{
+            font-size: 18px;
+            font-weight: 700;
+            margin-top: -.5rem;
+            margin-bottom: 0;
+        }
+    }
+}

@@ -1,0 +1,138 @@
+.profilePic img {
+  width: 50%;
+  height: 50%;
+  margin-top: 20%;
+  border: 5px solid #f1f2f3;
+}
+
+.profilePic .profiletext {
+  font-size: 14px;
+  letter-spacing: 5px;
+  font-weight: 700;
+}
+
+.profilePic .profile-text-summary {
+  font-size: 12px;
+}
+
+.singleBorder {
+  border-top: 3px solid #fff;
+}
+
+.contact-section {
+  margin-bottom: 1rem;
+}
+
+.contact-section .phone-icon {
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.contact-section .phone-number {
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+.email-section {
+  margin-bottom: 1rem;
+}
+
+.email-section .email-icon {
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.email-section .email-address {
+  margin: 0;
+  letter-spacing: 2px;
+}
+
+.address-section {
+  margin-bottom: 1rem;
+}
+
+.address-section .home-icon {
+  margin: 0;
+  margin-top: 1rem;
+}
+
+.address-section .home-address {
+  margin: 0;
+  letter-spacing: 2px;
+  margin-bottom: 1rem;
+}
+
+.SkileRange {
+  margin: 1.45rem;
+}
+
+.raingSlider {
+  margin-bottom: .4rem;
+}
+
+.raingSlider .slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 3px;
+  border-radius: 2px;
+  outline: none;
+}
+
+.raingSlider .slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 1rem;
+  height: 1rem;
+  background-color: #fff;
+  border: 2px solid rgba(22, 22, 22, 0.815);
+  border-radius: 50%;
+  cursor: pointer;
+  outline: none;
+  -webkit-box-shadow: 0 0 0 0 rgba(98, 0, 238, 0.1);
+          box-shadow: 0 0 0 0 rgba(98, 0, 238, 0.1);
+}
+
+.raingSlider .skillText {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  color: #fff;
+  letter-spacing: 1px;
+  margin-bottom: -10px;
+}
+
+.nametitle {
+  width: 100%;
+  height: 9%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #EAEAEA !important;
+}
+
+.nametitle .NameFirstLatter {
+  text-align: right;
+  margin-top: -2rem;
+}
+
+.nametitle .NameFirstLatter h1 {
+  font-size: 7rem;
+}
+
+.nametitle .NameDetails {
+  border-left: 3px solid #000;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+.nametitle .NameDetails h1 {
+  font-size: 28px;
+  letter-spacing: 3px;
+  font-weight: 700;
+}
+
+.nametitle .NameDetails p {
+  font-size: 18px;
+  font-weight: 700;
+  margin-top: -.5rem;
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=style.css.map */
