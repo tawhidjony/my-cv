@@ -3,7 +3,7 @@
             //Skilled
             $.ajax({
                   type:"get",
-                  url:"file:///C:/Users/u/Desktop/JBCV/skilled.json",
+                  url:"https://tawhidjony.github.io/my-cv/skilled.json",
                   contentType: "application/json",
                   dataType: 'json',
                   success: function(result){
@@ -17,7 +17,7 @@
             //Language
               $.ajax({
                   type:"get",
-                  url:"http://127.0.0.1:5500/language.json",
+                  url:"https://tawhidjony.github.io/my-cv/language.json",
                   contentType: "application/json",
                   dataType: 'json',
                   success: function(result){
