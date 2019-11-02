@@ -1,0 +1,55 @@
+ [
+    {
+      "name":"Bangla",
+      "value":"90"
+    },
+    {
+      "name":"CSS3",
+      "value":"80"
+    },
+    {
+      "name":"Bootstrap 4",
+      "value":"90"
+    },
+    {
+      "name":"PHP",
+      "value":"75"
+    },
+    {
+      "name":"PHP LARAVEL",
+      "value":"75"
+    },
+    {
+      "name":"Vue Js",
+      "value":"45"
+    },
+    {
+      "name":"React Js",
+      "value":"50"
+    },
+    {
+      "name":"React Native",
+      "value":"35"
+    },
+    {
+      "name":"JavaScript",
+      "value":"55"
+    },
+    {
+      "name":"jQuery",
+      "value":"60"
+    },
+    {
+      "name":"Node Js",
+      "value":"40"
+    },
+    {
+      "name":"My SQL",
+      "value":"70"
+    },
+    {
+      "name":"MongoDB",
+      "value":"20"
+    }
+    
+  ]
