@@ -28,19 +28,19 @@ $(document).ready(function(){
         }
     });/* end */
 
-  //Title
-    $.ajax({
-        type:"get",
-        url:"https://tawhidjony.github.io/my-cv/db/title.json",
-        contentType: "application/json",
-        dataType: 'json',
-        success: function(result){
+  // //Title
+  //   $.ajax({
+  //       type:"get",
+  //       url:"https://tawhidjony.github.io/my-cv/db/title.json",
+  //       contentType: "application/json",
+  //       dataType: 'json',
+  //       success: function(result){
           
-          $(result).each(function(i, value){
-            $('.nametitle').append('<div class="col-sm-4 NameFirstLatter"><h1>'+value.title_latter+'</h1></div><div class="col-sm-8 NameDetails"><h1>'+value.name+'</h1><p><i>'+value.name_sub_title+'</i></p></div>')
-          })
-        }
-    });/* end */
+  //         $(result).each(function(i, value){
+  //           $('.nametitle').append('<div class="col-sm-4 NameFirstLatter"><h1>'+value.title_latter+'</h1></div><div class="col-sm-8 NameDetails"><h1>'+value.name+'</h1><p><i>'+value.name_sub_title+'</i></p></div>')
+  //         })
+  //       }
+  //   });/* end */
   //Education
     $.ajax({
         type:"get",
