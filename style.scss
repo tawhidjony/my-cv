@@ -102,39 +102,28 @@ body {
 
 $Light_gray:#EAEAEA;
 
-// Main Body
-
-.name-brand{
+.nametitle {
     width: 100%;
-    min-height: 10%;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    background-color: $Light_gray !important;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:$Light_gray ;
+    margin-top: 5rem;
+    .NameFirstLatter{
 
-    // .NameFirstLatter{
-    //     text-align: right;
-    //     margin-top: -2rem;
-    //     h1{
-    //         font-size: 7rem;
-    //     }
+      h2{
+          font-size: 8rem;
+          font-weight: bolder;
+      }
    
-    // }
-    // .NameDetails{
-    //     border-left: 3px solid #000;
-    //     padding-top: .5rem;
-    //     padding-bottom: .5rem;
-    //     h1{
-    //         font-size: 28px;
-    //         letter-spacing: 3px;
-    //         font-weight: 700;
-    //     }
-    //     p{
-    //         font-size: 18px;
-    //         font-weight: 700;
-    //         margin-top: -.5rem;
-    //         margin-bottom: 0;
-    //     }
-    // }
+    }
+    .NameDetails{
+        border-left: 4px solid #000;
+        height: 5.8rem;
+        margin-left: 1rem;
+        padding-left: 1rem;
+    }
 }
 
 // Education section

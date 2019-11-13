@@ -109,12 +109,32 @@ body {
   margin-bottom: -10px;
 }
 
-.name-brand {
+.nametitle {
   width: 100%;
-  min-height: 10%;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #EAEAEA !important;
+  padding: 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #EAEAEA;
+  margin-top: 5rem;
+}
+
+.nametitle .NameFirstLatter h2 {
+  font-size: 8rem;
+  font-weight: bolder;
+}
+
+.nametitle .NameDetails {
+  border-left: 4px solid #000;
+  height: 5.8rem;
+  margin-left: 1rem;
+  padding-left: 1rem;
 }
 
 .education {
