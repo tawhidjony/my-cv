@@ -1,5 +1,5 @@
 
-data:[
+[
   {
     "name":"Ionic Mobile App Development",
     "institution":"LINCOLN UNIVERSITY COLLEGE /",
