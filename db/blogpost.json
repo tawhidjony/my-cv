@@ -1,36 +1,50 @@
 
 [
   { "id":"1",
+    "avatar_img":"https://i.ibb.co/FHQrdxd/img-20.jpg",
+    "author_name":"Isabella",
     "name":"সহজেই খুজে পান ট্রিকবিডি এর সাপোর্ট টিম কে… যেকোন প্রয়োজনে আপনার পাশে",
     "img_url":"https://i.ibb.co/p2kWbmW/faloda-Edit.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"2",
+    "avatar_img":"https://i.ibb.co/L9HbT6P/no-avatar.png",
+    "author_name":"mahfuz",
     "name":"আর কিনতে পারবেন না গ্রামীণফোনের সিম! বিস্তারিত পোস্টে.",
     "img_url":"https://i.ibb.co/1MmR57V/latte-art.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"3",
+    "avatar_img":"https://i.ibb.co/FHQrdxd/img-20.jpg",
+    "author_name":"Isabella",
     "name":"কিভাবে ফাইবারে গিগ খুলে হাজার হাজার ডলার ইনকাম করা যায় বিস্তারিত দেখুন পোষ্টে।",
     "img_url":"https://i.ibb.co/xHyNdmH/Green-Tea.png",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"4",
+    "avatar_img":"https://i.ibb.co/L9HbT6P/no-avatar.png",
+    "author_name":"mahfuz",
     "name":"MIUI তে কিভাবে গুগলের বিল্ট ইন অ্যাপস গুলো ডিজেবল করবেন !!",
     "img_url":"https://i.ibb.co/zJm75jT/CHICKEN-SAMOSA.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"5",
+    "avatar_img":"https://i.ibb.co/FHQrdxd/img-20.jpg",
+    "author_name":"Isabella",
     "name":"উইন্ডোজে কমান্ড প্রোম্পোট ইউজ করে ড্রাইভ হাইড করুন সহজেই!",
     "img_url":"https://i.ibb.co/hBnsH5Q/moong-dal-samosa-new.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"6",
+    "avatar_img":"https://i.ibb.co/L9HbT6P/no-avatar.png",
+    "author_name":"rayhan_1316",
     "name":"আপনি কি অনলাইনে ইনকাম করতে আগ্রহী, তাহলে দেখে নিন ৪৩ পদ্ধতিতে ইনকামের রাস্তা একটি এ্যাপে। ",
     "img_url":"https://i.ibb.co/ZMWhXVG/cat-main-0705140948-Mango-Juice.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
   },
   { "id":"7",
+    "avatar_img":"https://i.ibb.co/FHQrdxd/img-20.jpg",
+    "author_name":"Isabella",
     "name":"পিএইচপি কি? কেন? কিভাবে?",
     "img_url":"https://i.ibb.co/KNNy876/PEPPERMINT-TEA.jpg",
     "description":"I successfully completed Ionic Mobile Apps Development Workshop in 2016 from LINCOLN UNIVERSITY COLLEGE and the institution give me Certificate for my performance"
